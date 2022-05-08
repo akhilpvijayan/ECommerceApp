@@ -1,0 +1,55 @@
+C:\ECommerce App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ECommerce App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.exe
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.deps.json
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.runtimeconfig.json
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.runtimeconfig.dev.json
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\ECommerce App.pdb
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.csproj.AssemblyReference.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.GeneratedMSBuildEditorConfig.editorconfig
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.AssemblyInfoInputs.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.AssemblyInfo.cs
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.csproj.CoreCompileInputs.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.MvcApplicationPartsAssemblyInfo.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce App.StaticWebAssets.Manifest.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce App.StaticWebAssets.xml
+C:\ECommerce App\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce App.styles.css
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.RazorTargetAssemblyInfo.cache
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.csproj.CopyComplete
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.dll
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.pdb
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.genruntimeconfig.cache
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\ECommerce App\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\ECommerce App\obj\Debug\netcoreapp3.1\ECommerce App.MvcApplicationPartsAssemblyInfo.cs
